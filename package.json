@@ -1,0 +1,27 @@
+{
+  "name": "egghead-tutorial-03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurcinozer/egghead-tutorial-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurcinozer/egghead-tutorial-03/issues"
+  },
+  "homepage": "https://github.com/nurcinozer/egghead-tutorial-03#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
